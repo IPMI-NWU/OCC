@@ -1,0 +1,5 @@
+l_Contrast
+l_DifferenceAverage
+l_DifferenceEntropy
+l_DifferenceVariance
+l_InverseVariance

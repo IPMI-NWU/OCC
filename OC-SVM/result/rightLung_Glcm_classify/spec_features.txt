@@ -1,0 +1,6 @@
+r_Contrast
+r_DifferenceAverage
+r_DifferenceEntropy
+r_DifferenceVariance
+r_Imc1
+r_InverseVariance
